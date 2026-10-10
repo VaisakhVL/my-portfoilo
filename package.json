@@ -1,0 +1,13 @@
+{
+  "name": "my-portfolio",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix vaisakh-portfolio run dev",
+    "build": "npm --prefix vaisakh-portfolio run build",
+    "lint": "npm --prefix vaisakh-portfolio run lint",
+    "preview": "npm --prefix vaisakh-portfolio run preview"
+  },
+  "dependencies": {
+    "lucide-react": "^1.54.0"
+  }
+}
